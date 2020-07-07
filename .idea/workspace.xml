@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92d715cf-b570-4c9a-a888-208b82c70601" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eBJi72f7bs5qRbK0JmTNS4XypC" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.DataBuilderTest">
+    <configuration name="DataBuilderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="library_entry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nix" />
+      <option name="MAIN_CLASS_NAME" value="nix.DataBuilderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataBuilderTest.checkAmountOfAllWords" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="library_entry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nix" />
+      <option name="MAIN_CLASS_NAME" value="nix.DataBuilderTest" />
+      <option name="METHOD_NAME" value="checkAmountOfAllWords" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataBuilderTest.checkReverseOfText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="library_entry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nix" />
+      <option name="MAIN_CLASS_NAME" value="nix.DataBuilderTest" />
+      <option name="METHOD_NAME" value="checkReverseOfText" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataBuilderTest.checkSortedOrderOfChars" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="library_entry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nix" />
+      <option name="MAIN_CLASS_NAME" value="nix.DataBuilderTest" />
+      <option name="METHOD_NAME" value="checkSortedOrderOfChars" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataBuilderTest.checkSortedOrderOfWords" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="library_entry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nix" />
+      <option name="MAIN_CLASS_NAME" value="nix.DataBuilderTest" />
+      <option name="METHOD_NAME" value="checkSortedOrderOfWords" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DataBuilderTest" />
+        <item itemvalue="JUnit.DataBuilderTest.checkReverseOfText" />
+        <item itemvalue="JUnit.DataBuilderTest.checkSortedOrderOfWords" />
+        <item itemvalue="JUnit.DataBuilderTest.checkAmountOfAllWords" />
+        <item itemvalue="JUnit.DataBuilderTest.checkSortedOrderOfChars" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92d715cf-b570-4c9a-a888-208b82c70601" name="Default Changelist" comment="" />
+      <created>1593789176082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593789176082</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1594131719635">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1594131719635" />
+    <state x="530" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593790329481">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1593790329481" />
+    <state width="1556" height="580" key="GridCell.Tab.0.bottom" timestamp="1594141333236">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="580" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1594141333236" />
+    <state width="1556" height="580" key="GridCell.Tab.0.center" timestamp="1594141333236">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="580" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1594141333236" />
+    <state width="1556" height="580" key="GridCell.Tab.0.left" timestamp="1594141333236">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="580" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1594141333236" />
+    <state width="1556" height="580" key="GridCell.Tab.0.right" timestamp="1594141333236">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="580" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1594141333236" />
+    <state x="280" y="3" key="SettingsEditor" timestamp="1594129643824">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="3" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1594129643824" />
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1593941478560">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1593941478560" />
+    <state x="182" y="124" key="new project wizard" timestamp="1593789372633">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="124" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1593789372633" />
+  </component>
+</project>
